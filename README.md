@@ -6,5 +6,9 @@ Primera rama
 
 
 
+<<<<<<< HEAD
 Esta sigue siendo la primera rama 
+=======
+Esto es la segunda rama
+>>>>>>> Segundarama
 
