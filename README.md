@@ -15,4 +15,8 @@ Esto es la segunda rama
 
 vamosapasar a alas tercera
 
+<<<<<<< HEAD
 unimos la tercera 
+=======
+esta esla tercrra rama
+>>>>>>> tercerarama
